@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - "Ch\xE3o"
+  - Objetos
+  - Personagens
+  - Main
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - "Ch\xE3o "
+  - UI1
+  - UI2
+  - "\xC1rvores"
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Objetos
+    uniqueID: 2491504789
+    locked: 0
+  - name: Personagens
+    uniqueID: 3386760111
+    locked: 0
+  - name: "\xC1rvores"
+    uniqueID: 3008321867
+    locked: 0
+  - name: "Ch\xE3o"
+    uniqueID: 1636144329
+    locked: 0
+  - name: UI1
+    uniqueID: 2855200605
+    locked: 0
+  - name: UI2
+    uniqueID: 2985192909
+    locked: 0
